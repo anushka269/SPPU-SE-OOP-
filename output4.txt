@@ -1,0 +1,43 @@
+Enter your choice:
+1.write 
+2.read 
+3.append
+1
+
+Enter how many students data you want to add:
+1
+
+Enter roll no and name:21
+Harshal
+
+Do you want to continue?
+1.yes 
+2.no1
+Enter your choice:
+1.write 
+2.read 
+3.append
+3
+
+Enter roll no and name:22
+KF
+
+Do you want to continue?
+1.yes 
+2.no1
+Enter your choice:
+1.write 
+2.read 
+3.append
+2
+
+Data of students:
+Roll No.	Name:
+21		Harshal
+
+22		KF
+
+Do you want to continue?
+1.yes 
+2.non
+

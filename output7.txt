@@ -1,0 +1,18 @@
+Enter how many states do you want?3
+
+Enter the name of state:up
+
+Enter the population of state:46
+
+Enter the name of state:mp
+
+Enter the population of state:345
+
+Enter the name of state:gj
+
+Enter the population of state:346
+
+Enter the state you want to search:gj
+State	population
+gj	346
+

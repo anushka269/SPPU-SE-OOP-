@@ -1,0 +1,20 @@
+How many elements in integer array:5   
+
+Enter 5 Integer element:69
+58
+95
+12
+31
+
+How many elements in float array:5
+
+Enter 5 Float element:11.2
+99.5
+34.5
+12.6
+25.8
+
+Integer array=69  58  95  12  31  
+Sorted integer array=12  31  58  69  95  
+Float array=11.2  99.5  34.5  12.6  25.8  
+Sorted Float array=11.2  12.6  25.8  34.5  99.5
